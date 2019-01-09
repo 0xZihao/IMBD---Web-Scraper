@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IMBD - Web Scraper", "IMBD - Web Scraper\IMBD - Web Scraper.pyproj", "{F24687EE-CD58-445D-95C1-E64E45ABCDCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F24687EE-CD58-445D-95C1-E64E45ABCDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24687EE-CD58-445D-95C1-E64E45ABCDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C20F77FB-43B8-4BD4-BA90-F58502878EFB}
+	EndGlobalSection
+EndGlobal
